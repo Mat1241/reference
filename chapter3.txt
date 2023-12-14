@@ -1,2 +1,7 @@
 And this is content ov chapter 3.
+<<<<<<< HEAD
 some more content
+=======
+
+experimental contetn
+>>>>>>> loose_idea_1
